@@ -143,7 +143,7 @@ DOLP = (DOLP)/(S0+1)
 #Image.fromarray(DOLP.astype(np.uint8)).show()
 
 
-Image.fromarray(normalize(DOLP).astype(np.uint8)).save("/home/pi/Desktop/Edmunds project/Final.jpg")
+Image.fromarray(normalize(DOLP).astype(np.uint8)).save("/home/pi/Desktop/Edmunds project/Dolp.jpg")
 with open("/home/pi/Desktop/Edmunds project/Matrix Dolp","w") as D:
     for item in DOLP:
         D.write("%s\n" % item)
