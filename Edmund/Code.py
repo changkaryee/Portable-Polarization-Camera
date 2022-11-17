@@ -21,9 +21,9 @@ def run():
     camera.close()
     print("done.")
 #90 degrees
-    #p.ChangeDutyCycle(4+(11.25)/18)
-    #time.sleep(1)
-    #p.ChangeDutyCycle(0)
+    p.ChangeDutyCycle(4+(11.25)/18)
+    time.sleep(1)
+    p.ChangeDutyCycle(0)
     
     print("taking picture of 45 degrees")
     time.sleep(8)
@@ -32,9 +32,9 @@ def run():
     camera.close()
     print("done.")
 #45 degrees
-    #p.ChangeDutyCycle(4+(11.25/18))
-    #time.sleep(1)
-    #p.ChangeDutyCycle(0)
+    p.ChangeDutyCycle(4+(11.25/18))
+    time.sleep(1)
+    p.ChangeDutyCycle(0)
     
     print("taking picture of 90 degrees")
     time.sleep(8)
@@ -43,9 +43,9 @@ def run():
     camera.close()
     print("done.")
 #135 degrees
-    #p.ChangeDutyCycle(4+(11.25/18))
-    #time.sleep(1)
-    #p.ChangeDutyCycle(0)
+    p.ChangeDutyCycle(4+(11.25/18))
+    time.sleep(1)
+    p.ChangeDutyCycle(0)
     
     print("taking picture of 135 degrees")
     time.sleep(8)
