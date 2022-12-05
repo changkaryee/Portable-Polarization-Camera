@@ -14,6 +14,9 @@ Attach Raspberry Pie through the hole in piece 1-
 Attach the Camera to piece 2 and connect the Camera to the raspberry pie via an Adafruit Flex Cable-
 Grab a sheet of polarization film, place the short edge towards your body(this is 0°)-
 rotate 45° and cut a sheet out-
+repeat step 5 and 6 until you have 4 small pieces of film. Make sure they are organized-
+tape the film to the film wheel-
+attach a bearing into the film wheel(0.5 in tall, 2 in wide) and the pieces 1+2-
 
 Procedure:
 Position the camera and press the button, then wait for 2 minutes.
